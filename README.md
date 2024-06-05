@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Lucian Ciobanu - www.lucianciobanu.eu
+- 👋 Hi, I’m Lucian Ciobanu
 - 👀 I’m a Front End Developer from Iasi, Romania
-- 🌱 I’m learning how the web works, which tools are available and how I can help others
-- 📫 I can be contacted on www.linkedin.com/in/lucianciob4nu
+- 🌱 I write about my tech journey on www.lucianciobanu.eu
+- 📫 I can be contacted on www.linkedin.com/in/lucian-ciobanu-web
 
 <!---
 luci4n/luci4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
