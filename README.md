@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucian Ciobanu
 - 👀 I’m a Front End Developer from Iasi, Romania
-- 🌱 I write about my tech journey on www.lucianciobanu.eu
+- 🌱 I write about my tech journey on www.luciantech.ro
 - 📫 I can be contacted on www.linkedin.com/in/lucian-ciobanu-web
 
 <!---
